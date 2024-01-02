@@ -1,6 +1,6 @@
 # Practical-Machine-Learning
 Peer-graded Assignment: Prediction Assignment Writeup
-### Objective os this project
+### Objective of this project
 
 The purpose of this project was to quantify how well the participants
 performed a barbell lifting exercise and to classify the measurement
