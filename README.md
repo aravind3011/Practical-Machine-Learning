@@ -1,4 +1,4 @@
-# Practical-Machine-Learning
+# Practical-Machine-Learning Assignment
 Peer-graded Assignment: Prediction Assignment Writeup
 ### Objective of this project
 
