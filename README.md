@@ -40,8 +40,8 @@ Please reference the links below for the data sources:
 
 #### Load the training and testing datasets
 
-    train<-read.csv("C:/Users/aao1009/Desktop/pml-training.csv",na.strings=c("NA","#DIV/0!",""))
-    test<-read.csv("C:/Users/aao1009/Desktop/pml-testing.csv",na.strings=c("NA","#DIV/0!",""))
+    train<-read.csv("C:/Users/insta/Desktop/pml-training.csv",na.strings=c("NA","#DIV/0!",""))
+    test<-read.csv("C:/Users/insta/Desktop/pml-testing.csv",na.strings=c("NA","#DIV/0!",""))
 
 #### Remove null columns and the first 7 columns that will not be used
 
